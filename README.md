@@ -1,4 +1,5 @@
-## PROJETO DA SEMANA => LABECOMMERCE (BACK END)
+## LABECOMMERCE :shopping_cart: :shopping_cart: :shopping_cart:
+###### Projeto de Back end
 
 - Este é um projeto básico de Backend, utilizando Typescript, MySQL, além das bibliotecas knexJs e expressJs, desenvolvido para atender aos modelos REST API.
 
